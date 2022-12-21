@@ -18,3 +18,7 @@ To run this project, install it locally using npm:
 
     $ npm install
     $ npx start
+
+## Production:
+
+    https://202209-w1ch1-andrea-pedreno.netlify.app/
